@@ -1,7 +1,6 @@
-# portfolio-task
- HTML Portfolio for Profile, Skills, Projects &amp; Recommendations
-# Portfolio Website – K Harshitha
 
+# Portfolio Website – K Harshitha
+it is brach of  the file
 This is a personal portfolio project built using HTML, CSS, and JavaScript.
 
 ## 📄 Features
